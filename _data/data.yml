@@ -31,19 +31,13 @@ sidebar:
 career-profile:
     title: 个人简介
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      大三本科生，大二进入SDIM工业设计专业学习一个学期，现在准备转入信息工程专业。2022-2023学年绩点3.55。
 
 certifications:
       title: 证书
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
+        - name: 实用新型专利
+          start: 2023
           organization: Microsoft
           credentialid: 111-222
           credentialurl: www.google.com
