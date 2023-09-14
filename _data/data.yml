@@ -84,22 +84,22 @@ skills:
 
     toolset:
       - name: CAD (Solidworks&Fusion360)
-        level: 50%
+        level: 80%
         
       - name: Git
-        level: 40%
+        level: 60%
 
       - name: C++ & Embedded Development
-        level: 30%
+        level: 60%
 
       - name: Latex & Markdown
-        level: 30%
+        level: 60%
 
       - name: HTML5 & CSS
-        level: 20%
+        level: 40%
 
       - name: Figma & Photoshop
-        level: 20%
+        level: 40%
 
 footer: >
     <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> is an opensource project designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
