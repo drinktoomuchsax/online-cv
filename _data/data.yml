@@ -36,26 +36,22 @@ career-profile:
 certifications:
       title: 证书
       list:
-        - name: 实用新型专利
+        - name: 实用新型专利_一种用于 X 射线实验的原位拉伸装置及系统
           start: 2023
-          organization: Microsoft
+          organization: 国家专利局
           credentialid: LYP02321006
           credentialurl: https://file.notion.so/f/s/09a8f703-a53d-4083-83f5-c7f7b83138c6/PSU962023006CN1_LYP02321006_202320737340.7_%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%8F%97%E7%90%86%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf?id=a1301496-cc57-481c-a25d-376855c2f306&table=block&spaceId=4d77d7d4-5e0f-415b-a5bf-145d3b6a89aa&expirationTimestamp=1694649600000&signature=azhEwxe_grqCNmtsfAwl_ckcNTGJzzsgAOZ7uirPEJ0&downloadName=PSU962023006CN1+LYP02321006+202320737340.7+%E4%B8%93%E5%88%A9%E7%94%B3%E8%AF%B7%E5%8F%97%E7%90%86%E9%80%9A%E7%9F%A5%E4%B9%A6.pdf
-          credentialname: 国家专利局
+          credentialname: 申请受理通知书
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
+                这份专利证书是2022年攀登计划的成果之一，该专利涉及一个材料试验中的拉伸系统设计。
 
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
+                在这个项目中，我担任系统设计、建模实现和加工制造的角色。我的工作主要集中在设计一个可靠的小型拉伸系统，以满足在x射线成像仪器中进行材料拉伸实验的需求。基于这些要求，我使用fusion360（CAD）软件创建了系统的三维模型，并进行了详细的工程分析。
+
+                在系统设计的过程中，我考虑了诸如材料的强度、稳定性和可持续性等因素。我与团队成员紧密合作，以确保设计符合项目目标和要求。我还与制造工程师合作，确保设计的可制造性，并提供必要的技术支持。
+
+                一旦设计完成，我负责监督加工制造过程。我与供应商合作，确保按照设计规范和标准进行制造，并进行必要的质量控制。我还参与了系统的测试和验证，确保其性能达到预期。
+
+                通过这个项目，我不仅提高了我的系统设计和建模能力，还锻炼了与团队合作和供应商合作的技巧。这份专利证书是我在攀登计划中的重要成果，也证明了我的能力和贡献。
         - name: Git learning
           start: 2019
           end:
