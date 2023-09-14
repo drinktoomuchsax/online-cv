@@ -19,7 +19,7 @@ sidebar:
     interests:
       title: 兴趣
       info:
-        - item: FPV
+        - item: FPV无人机
           link:
 
         - item: 健身
@@ -36,7 +36,7 @@ career-profile:
 certifications:
       title: 证书
       list:
-        - name: 实用新型专利_一种用于 X 射线实验的原位拉伸装置及系统
+        - name: 实用新型专利“一种用于 X 射线实验的原位拉伸装置及系统”
           start: 2023
           organization: 国家专利局
           credentialid: LYP02321006
@@ -45,30 +45,13 @@ certifications:
           details: |
                 这份专利证书是2022年攀登计划的成果之一，该专利涉及一个材料试验中的拉伸系统设计。
 
-                在这个项目中，我担任系统设计、建模实现和加工制造的角色。我的工作主要集中在设计一个可靠的小型拉伸系统，以满足在x射线成像仪器中进行材料拉伸实验的需求。基于这些要求，我使用fusion360（CAD）软件创建了系统的三维模型，并进行了详细的工程分析。
+                在这个项目中，我担任系统设计、建模实现和加工制造的角色。我的工作主要集中在设计一个可靠的小型拉伸系统，以满足在x射线成像仪器中进行材料拉伸实验的需求。基于这些要求，我使用Fusion360（CAD）软件创建了系统的三维模型，并进行了详细的工程分析。
 
-                在系统设计的过程中，我考虑了诸如材料的强度、稳定性和可持续性等因素。我与团队成员紧密合作，以确保设计符合项目目标和要求。我还与制造工程师合作，确保设计的可制造性，并提供必要的技术支持。
+                在系统设计的过程中，我综合电控、机械、制造等因素，以确保设计符合项目目标和要求。同时和指导老师沟通，确保设计的可制造性。
 
-                一旦设计完成，我负责监督加工制造过程。我与供应商合作，确保按照设计规范和标准进行制造，并进行必要的质量控制。我还参与了系统的测试和验证，确保其性能达到预期。
+                同时负责监督设计完成后的加工制造过程。我还参与了系统的测试和验证，确保其性能达到预期。
 
-                通过这个项目，我不仅提高了我的系统设计和建模能力，还锻炼了与团队合作和供应商合作的技巧。这份专利证书是我在攀登计划中的重要成果，也证明了我的能力和贡献。
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
+                通过这个项目，不仅提高了我的系统设计和建模能力，还锻炼了与团队合作和供应商合作的技巧。这份专利证书是我在攀登计划中的重要成果，也证明了我的能力和贡献。
 projects:
     title: 项目
     intro: >
@@ -76,12 +59,12 @@ projects:
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: sustech_door_kit
+        link: "https://github.com/drinktoomuchsax/sustech_door_kit"
+        tagline: "一个适用于"
 
-      - title: DevStudio
-        link: "#"
+      - title: SUSTech-EE-Course-Hero
+        link: "https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
       - title: Tempo
@@ -100,23 +83,23 @@ skills:
     title: 技能 &amp; 掌握程度
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: CAD (Solidworks&Fusion360)
+        level: 50%
+        
+      - name: Git
+        level: 40%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: C++ & Embedded Development
+        level: 30%
 
-      - name: Angular
-        level: 98%
+      - name: Latex & Markdown
+        level: 30%
 
       - name: HTML5 & CSS
-        level: 95%
+        level: 20%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: Figma & Photoshop
+        level: 20%
 
 footer: >
     <a href="https://github.com/sharu725/online-cv" target="_blank" rel="nofollow">Online-CV</a> is an opensource project designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
