@@ -61,15 +61,15 @@ projects:
     assignments:
       - title: sustech_door_kit
         link: "https://github.com/drinktoomuchsax/sustech_door_kit"
-        tagline: "一个适用于"
+        tagline: "一个南科大宿舍门改装套件，实现无校卡开门、人脸识别开门、智能家居联动"
 
       - title: SUSTech-EE-Course-Hero
         link: "https://github.com/drinktoomuchsax/SUSTech-EE-Course-Hero"
-        tagline: ""
+        tagline: "南科大本科同学电子相关课程资料归档"
 
       - title: USB killer
         link: "https://github.com/drinktoomuchsax/usb-killer"
-        tagline: ""
+        tagline: "usb接口杀手，高电压kill"
 
 
 skills:
