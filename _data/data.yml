@@ -9,7 +9,7 @@ sidebar:
 
     # Profile information
     name: 曹正阳
-    tagline: 本科大三
+    tagline: 南方科技大学 信息工程
     avatar: profile1.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -31,7 +31,7 @@ sidebar:
 career-profile:
     title: 个人简介
     summary: |
-      大三本科生，大二进入SDIM工业设计专业学习一个学期，现在准备转入信息工程专业。2022-2023学年绩点3.55。
+      南方科技大学，信息工程大三本科生，大二进入SDIM工业设计专业学习一个学期，现在准备转入信息工程专业。2022-2023学年绩点3.55。
 
 certifications:
       title: 证书
