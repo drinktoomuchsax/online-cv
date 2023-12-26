@@ -54,10 +54,6 @@ certifications:
                 通过这个项目，不仅提高了我的系统设计和建模能力，还锻炼了与团队合作和供应商合作的技巧。这份专利证书是我在攀登计划中的重要成果，也证明了我的能力和贡献。
 projects:
     title: 项目
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
       - title: sustech_door_kit
         link: "https://github.com/drinktoomuchsax/sustech_door_kit"
